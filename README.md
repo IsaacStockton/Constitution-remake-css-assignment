@@ -3,6 +3,7 @@ Assignment: Constitution CSS Styling
 Files:
 - constitutionremake.html
 - style.css
+- constitution-bg.png
 
 Description:
 This webpage displays Article I of the U.S. Constitution and a short summary.
